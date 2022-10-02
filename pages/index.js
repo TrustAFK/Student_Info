@@ -15,6 +15,8 @@ import WulakeyTanwar from "../Images/WulakeyTanwar.jpg";
 import MridulPanda from "../Images/MridulPanda.jpg";
 import AshmitBisht from "../Images/AshmitBisht.jpg";
 import TaraChoudhary from "../Images/TaraChoudhary.jpg";
+import Priyanka from "../Images/Priyanka.jpg";
+
 
 export default function Home() {
   return (
