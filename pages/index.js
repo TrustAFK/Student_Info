@@ -16,6 +16,7 @@ import MridulPanda from "../Images/MridulPanda.jpg";
 import AshmitBisht from "../Images/AshmitBisht.jpg";
 import TaraChoudhary from "../Images/TaraChoudhary.jpg";
 import Priyanka from "../Images/Priyanka.jpg";
+import ChiragArora from "../Images/ChiragArora.jpg";
 
 
 export default function Home() {
@@ -125,6 +126,15 @@ export default function Home() {
           instagram="https://www.instagram.com/vicky_tanwar_07/"
           twitter="https://twitter.com/WulakeyTanwar"
           linkedin="https://www.linkedin.com/in/wulakey-tanwar-613b0821b"
+        />
+        
+        <Card
+          image={ChiragArora}
+          name="Chirag Arora"
+          about="Doing Open Source"
+          instagram="https://www.instagram.com/chirag.8023/"
+          twitter="https://twitter.com/Chirag8023"
+          linkedin="https://www.linkedin.com/in/chirag-arora-174775167/"
         />
 
         <Card
