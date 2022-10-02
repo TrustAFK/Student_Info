@@ -15,6 +15,7 @@ import WulakeyTanwar from "../Images/WulakeyTanwar.jpg";
 import MridulPanda from "../Images/MridulPanda.jpg";
 import AshmitBisht from "../Images/AshmitBisht.jpg";
 import TaraChoudhary from "../Images/TaraChoudhary.jpg";
+import DimpleChoudhary from "..Image/DimpleChoudhary.jpg";
 
 export default function Home() {
   return (
@@ -143,7 +144,6 @@ export default function Home() {
           linkedin="https://www.linkedin.com/in/ashmit-bisht-1b4788227/"
         />
             
-
         <Card
           image={TaraChoudhary}
           name="Tara Choudhary"
@@ -152,6 +152,15 @@ export default function Home() {
           twitter="https://twitter.com/developerTara"
           linkedin="https://www.linkedin.com/in/tara-choudhary00/"
         />
+        
+        <Card
+          image={DimpleChoudhary}
+          name="Dimple Choudhary"
+          about="Frontend Developer "
+          instagram="https://www.instagram.com/_http.bot/"
+          twitter="https://twitter.com/dimpi_choudhari"
+          linkedin="https://www.linkedin.com/in/dimple-choudhary-537066239/"
+        />    
     
 
       </main>
