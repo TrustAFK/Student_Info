@@ -16,6 +16,7 @@ import MridulPanda from "../Images/MridulPanda.jpg";
 import AshmitBisht from "../Images/AshmitBisht.jpg";
 import TaraChoudhary from "../Images/TaraChoudhary.jpg";
 import ChiragArora from "../Images/ChiragArora.jpg";
+import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
 
 export default function Home() {
   return (
@@ -162,6 +163,16 @@ export default function Home() {
           twitter="https://twitter.com/developerTara"
           linkedin="https://www.linkedin.com/in/tara-choudhary00/"
         />
+            
+        <Card
+          image={MadhavBhardwaj}
+          name = "Madhav Bhardwaj"
+          about= "Wake up to reality !!!"
+          instagram= "https://www.instagram.com/ma_dh_av30/"
+          twitter= "https://twitter.com/Ma_dh_av30"
+          linkedin= "https://www.linkedin.com/in/madhav-bhardwaj-22793621b/"/>
+
+
     
 
       </main>
