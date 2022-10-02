@@ -17,6 +17,8 @@ import AshmitBisht from "../Images/AshmitBisht.jpg";
 import TaraChoudhary from "../Images/TaraChoudhary.jpg";
 import ChiragArora from "../Images/ChiragArora.jpg";
 import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
+import DimpleChoudhary from "../Images/DimpleChoudhary.jpg";
+
 
 export default function Home() {
   return (
@@ -173,6 +175,14 @@ export default function Home() {
           linkedin= "https://www.linkedin.com/in/madhav-bhardwaj-22793621b/"/>
 
 
+          image={DimpleChoudhary}
+          name="Dimple Choudhary"
+          about="Frontend Developer"
+          instagram="https://www.instagram.com/_dimple__choudhary__/"
+          twitter="https://twitter.com/dimpi_choudhari"
+          linkedin="https://www.linkedin.com/in/dimple-choudhary-537066239/"
+        />
+    
     
 
       </main>
