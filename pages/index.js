@@ -172,7 +172,8 @@ export default function Home() {
           about= "Wake up to reality !!!"
           instagram= "https://www.instagram.com/ma_dh_av30/"
           twitter= "https://twitter.com/Ma_dh_av30"
-          linkedin= "https://www.linkedin.com/in/madhav-bhardwaj-22793621b/"/>
+          linkedin= "https://www.linkedin.com/in/madhav-bhardwaj-22793621b/"
+     b />
 
 
           image={DimpleChoudhary}
