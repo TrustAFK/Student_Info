@@ -19,6 +19,7 @@ import ChiragArora from "../Images/ChiragArora.jpg";
 import DimpleChoudhary from "../Images/DimpleChoudhary.jpg";
 import AyushSarode from "../Images/AyushSarode.jpg";
 import VaniSharma from "../Images/VaniSharma.jpg";
+import ABCD from "../Images/ABCD.jpg";
 
 export default function Home() {
   return (
@@ -155,15 +156,24 @@ export default function Home() {
           twitter="https://twitter.com/AshmitBisht009"
           linkedin="https://www.linkedin.com/in/ashmit-bisht-1b4788227/"
         />
+
+          <Card
+          image={AgneyaPathare}
+          name="Agneya Pathare"
+          about="Digital Creator"
+          instagram="https://www.instagram.com/agneya_pathare/"
+          twitter="https://twitter.com/agneya_pathare"
+          linkedin="https://www.linkedin.com/in/agneya-pathare"
+        />
             
 
         <Card
-          image={TaraChoudhary}
-          name="Tara Choudhary"
-          about="UI/UX Designer"
-          instagram="https://www.instagram.com/_tara__choudhary/"
-          twitter="https://twitter.com/developerTara"
-          linkedin="https://www.linkedin.com/in/tara-choudhary00/"
+          image={ABCD}
+          name="Veda"
+          about="MERN stack Developer"
+          instagram="https://www.instagram.com/"
+          twitter="https://twitter.com/"
+          linkedin="https://www.linkedin.com/in/veda-c-r-834992216/"
         />
             
         <Card
