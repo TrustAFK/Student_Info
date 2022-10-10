@@ -214,6 +214,15 @@ export default function Home() {
           linkedin="https://www.linkedin.com/in/madhav-bhardwaj-22793621b/"
          />
             
+            <Card
+          image={Ritikkumar}
+          name="Ritik kumar"
+          about="software devwloper"
+          instagram="https://www.instagram.com/its__.ritik.__/"
+          twitter="https://twitter.com/RitikKu00198959"
+          linkedin="https://www.linkedin.com/in/ritik-kumar-2b9282227"
+        />
+            
             
          
          
