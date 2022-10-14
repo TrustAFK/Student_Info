@@ -26,7 +26,7 @@ import Ritikkumar from "../Images/Ritikkumar.jpg";
 import IshitaSrivastav from "../Images/IshitaSrivastav.jpeg";
 import OmShah from "../Images/OmShah.jpg";
 import VladenCode from "../Images/VladenCode.jpg";
-
+import Auti29 from "../Images/Auti29.jpg";
 
 
 
@@ -263,7 +263,13 @@ export default function Home() {
           twitter="https://twitter.com/MaiOmmHoon"
           linkedin=" "
          />
-            
+           
+          <Card image={Auti29} 
+           name = "Achyut Auti" 
+           about="Push past your limits!" 
+           instagram= "https://www.instagram.com/achyut_2_9"
+           twitter=" " 
+           linkedin=" "/>
             
             
          
