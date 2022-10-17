@@ -30,6 +30,7 @@ import Auti29 from "../Images/Auti29.jpg";
 
 
 
+
 export default function Home() {
   return (
     <div>
