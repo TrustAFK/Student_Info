@@ -27,7 +27,7 @@ import IshitaSrivastav from "../Images/IshitaSrivastav.jpeg";
 import OmShah from "../Images/OmShah.jpg";
 import VladenCode from "../Images/VladenCode.jpg";
 import Auti29 from "../Images/Auti29.jpg";
-
+import SachinJayadev from "../Images/SachinJayadev.jpg";
 
 
 export default function Home() {
@@ -270,6 +270,14 @@ export default function Home() {
            instagram= "https://www.instagram.com/achyut_2_9"
            twitter=" " 
            linkedin=" "/>
+             
+          <Card image={SachinJayadev} 
+           name = "Sachin Jayadev" 
+           about="Hello, World!" 
+           instagram= "https://www.instagram.com/sachin__jayadev/" 
+           twitter="https://twitter.com/JayadevSachin" 
+           linkedin="https://www.linkedin.com/in/sachin-jayadev-010492232/"
+          />
             
             
          
