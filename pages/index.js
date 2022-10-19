@@ -8,7 +8,7 @@ import AgneyaPathare from "../Images/AgneyaPathare.jpg";
 import RitikSharma from "../Images/RitikSharma.jpg";
 import PriyanshuSingh from "../Images/Priyanshu singh.png";
 import AnkushMaji from "../Images/AnkushMaji.jpg";
-import AdityaSrivastav from "../Images/AdityaSrivastav.jpg";
+import AdityaSrivastav from "../Images/AdityaSrivastav.jpg" ;
 import Anuj from "../Images/Anuj.jpg";
 import SagarSethi from "../Images/SagarSethi.jpg";
 import WulakeyTanwar from "../Images/WulakeyTanwar.jpg";
