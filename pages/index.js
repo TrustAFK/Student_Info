@@ -28,6 +28,7 @@ import OmShah from "../Images/OmShah.jpg";
 import VladenCode from "../Images/VladenCode.jpg";
 import Auti29 from "../Images/Auti29.jpg";
 import SachinJayadev from "../Images/SachinJayadev.jpg";
+import Arpit from "../Images/Arpit.jpg";
 
 
 export default function Home() {
@@ -120,7 +121,16 @@ export default function Home() {
           twitter=""
           linkedin="https://www.linkedin.com/in/anuj-patel-9186331a4/"
         />
-
+        
+        <Card
+          image={Arpit}
+          name="Arpit Pandey"
+          about="Writer by heart"
+          instagram=""
+          twitter=""
+          linkedin="https://www.linkedin.com/in/arpitpandey/"
+        />
+            
         <Card
           image={SagarSethi}
           name="Sagar Sethi"
