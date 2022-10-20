@@ -28,6 +28,7 @@ import OmShah from "../Images/OmShah.jpg";
 import VladenCode from "../Images/VladenCode.jpg";
 import Auti29 from "../Images/Auti29.jpg";
 import SachinJayadev from "../Images/SachinJayadev.jpg";
+import GeremsaNarzary from "../Images/GeremsaNarzary.jpg"
 
 
 export default function Home() {
@@ -138,7 +139,7 @@ export default function Home() {
           twitter="https://twitter.com/WulakeyTanwar"
           linkedin="https://www.linkedin.com/in/wulakey-tanwar-613b0821b"
         />
-        
+
         <Card
           image={ChiragArora}
           name="Chirag Arora"
@@ -156,7 +157,7 @@ export default function Home() {
           twitter="https://twitter.com/i_mridul"
           linkedin="https://www.linkedin.com/in/mridul2820"
         />
-            
+
          <Card
           image={AshmitBisht}
           name="Ashmit Bisht"
@@ -165,7 +166,7 @@ export default function Home() {
           twitter="https://twitter.com/AshmitBisht009"
           linkedin="https://www.linkedin.com/in/ashmit-bisht-1b4788227/"
         />
-            
+
 
         <Card
           image={TaraChoudhary}
@@ -175,7 +176,7 @@ export default function Home() {
           twitter="https://twitter.com/developerTara"
           linkedin="https://www.linkedin.com/in/tara-choudhary00/"
         />
-            
+
         <Card
           image={DimpleChoudhary}
           name="Dimple Choudhary"
@@ -184,7 +185,7 @@ export default function Home() {
           twitter="https://twitter.com/dimpi_choudhari"
           linkedin="https://www.linkedin.com/in/dimple-choudhary-537066239/"
         />
-            
+
         <Card
           image={AyushSarode}
           name="Ayush Sarode"
@@ -192,8 +193,8 @@ export default function Home() {
           instagram=""
           twitter="https://twitter.com/AyushSarode07"
           linkedin=""
-        />    
-  
+        />
+
          <Card
           image={VaniSharma}
           name="Vani Sharma"
@@ -203,7 +204,7 @@ export default function Home() {
           linkedin=""
         />
 
-         <Card 
+         <Card
           image={AnshajKhare}
           name="Anshaj Khare"
           about="Open Source Contributor"
@@ -211,8 +212,8 @@ export default function Home() {
           twitter="https://twitter.com/anshaj_khare"
           linkedin="https://www.linkedin.com/in/anshaj-khare-0a0701202/"
          />
-            
-            <Card 
+
+            <Card
           image={MadhavBhardwaj}
           name="Madhav Bhardwaj"
           about="Wake up to reality !!! "
@@ -220,8 +221,8 @@ export default function Home() {
           twitter="https://twitter.com/Ma_dh_av30"
           linkedin="https://www.linkedin.com/in/madhav-bhardwaj-22793621b/"
          />
-            
-            <Card 
+
+            <Card
           image={NishitTyagi}
           name="Nishit Tyagi"
           about="All Mighty Push......................<3 "
@@ -229,16 +230,16 @@ export default function Home() {
           twitter="https://twitter.com/Sudhanshu226922"
           linkedin="https://www.linkedin.com/in/nishit-tyagi-560b0722b"
          />
-            
-              <Card 
+
+              <Card
           image={Ritikkumar}
           name="Ritik Kumar"
           about="Software Developer !!!"
           instagram="https://www.instagram.com/its__.ritik.__/"
           twitter="https://twitter.com/RitikKu00198959"
           linkedin="https://www.linkedin.com/in/ritik-kumar-2b9282227/"
-         /> 
-              <Card 
+         />
+              <Card
           image={IshitaSrivastav}
           name="Ishita Srivastav"
           about="Having Fun.....:)"
@@ -247,15 +248,15 @@ export default function Home() {
           linkedin=""
          />
 
-         <Card 
+         <Card
          image={VladenCode}
-          name="Vladimir Cvejanov " 
-          about="Frontend Developer" 
-          instagram="" 
-          twitter="https://twitter.com/VladTheCveja " 
+          name="Vladimir Cvejanov "
+          about="Frontend Developer"
+          instagram=""
+          twitter="https://twitter.com/VladTheCveja "
           linkedin=""/>
-            
-          <Card 
+
+          <Card
           image={OmShah}
           name="Om Shah"
           about="Web Developer"
@@ -263,25 +264,33 @@ export default function Home() {
           twitter="https://twitter.com/MaiOmmHoon"
           linkedin=" "
          />
-           
-          <Card image={Auti29} 
-           name = "Achyut Auti" 
-           about="Push past your limits!" 
+
+          <Card image={Auti29}
+           name = "Achyut Auti"
+           about="Push past your limits!"
            instagram= "https://www.instagram.com/achyut_2_9"
-           twitter=" " 
+           twitter=" "
            linkedin=" "/>
-             
-          <Card image={SachinJayadev} 
-           name = "Sachin Jayadev" 
-           about="Hello, World!" 
-           instagram= "https://www.instagram.com/sachin__jayadev/" 
-           twitter="https://twitter.com/JayadevSachin" 
+
+          <Card image={SachinJayadev}
+           name = "Sachin Jayadev"
+           about="Hello, World!"
+           instagram= "https://www.instagram.com/sachin__jayadev/"
+           twitter="https://twitter.com/JayadevSachin"
            linkedin="https://www.linkedin.com/in/sachin-jayadev-010492232/"
           />
-            
-            
-         
-         
+
+          <Card image={GeremsaNarzary}
+           name = "Geremsa Narzary"
+           about="Be The Jack Of All Trades!"
+           instagram="https://www.instagram.com/geremsa.nzy/"
+           twitter="https://twitter.com/geremsanrzr"
+           linkedin="https://www.linkedin.com/in/gerem-nzy-7669a0210/"
+          />
+
+
+
+
       </main>
     </div>
   );
