@@ -264,9 +264,6 @@ export default function Home() {
           linkedin=" "
          />
             
-            
-            
-         
          
       </main>
     </div>
