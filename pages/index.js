@@ -30,6 +30,7 @@ import Auti29 from "../Images/Auti29.jpg";
 import SachinJayadev from "../Images/SachinJayadev.jpg";
 
 
+
 export default function Home() {
   return (
     <div>
