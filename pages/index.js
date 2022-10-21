@@ -112,7 +112,7 @@ export default function Home() {
           about="khush raho aur rehne do! "
           instagram="https://www.instagram.com/aditya_srivastav05/ "
           twitter=" https://twitter.com/narendramodi"
-          linkedin="https://www.linkedin.com/in/aditya-srivastav-4b31a0221/  "
+          linkedin="https://www.linkedin.com/in/aditya-srivastav-4b31a0221/   "
         />
 
         <Card
