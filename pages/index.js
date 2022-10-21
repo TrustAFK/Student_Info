@@ -124,14 +124,6 @@ export default function Home() {
           linkedin="https://www.linkedin.com/in/anuj-patel-9186331a4/"
         />
         
-        <Card
-          image={Arpit}
-          name="Arpit Pandey"
-          about="Writer by heart"
-          instagram=""
-          twitter=""
-          linkedin="https://www.linkedin.com/in/arpitpandey/"
-        />
             
         <Card
           image={SagarSethi}
@@ -298,6 +290,14 @@ export default function Home() {
            twitter="https://twitter.com/geremsanrzr"
            linkedin="https://www.linkedin.com/in/gerem-nzy-7669a0210/"
           />
+             
+         <Card image={Arpit}
+          name="Arpit Pandey"
+          about="Writer by heart"
+          instagram=""
+          twitter=""
+          linkedin="https://www.linkedin.com/in/arpitpandey/"
+        />  
 
 
 
