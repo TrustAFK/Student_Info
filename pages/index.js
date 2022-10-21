@@ -111,7 +111,7 @@ export default function Home() {
           name="Aditya Srivastav"
           about="khush raho aur rehne do! "
           instagram="https://www.instagram.com/aditya_srivastav05/ "
-          twitter=" https://twitter.com/narendramodi"
+          twitter="https://twitter.com/Aditya_s05?t=D9j7fbUxLgPMv2w8GAyhtw&s=08"
           linkedin="https://www.linkedin.com/in/aditya-srivastav-4b31a0221/  "
         />
 
